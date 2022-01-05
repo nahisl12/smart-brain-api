@@ -11,7 +11,7 @@ Smart Brain is a full stack web application that uses Clarifai to detect where t
 #### Front-end/Client
 
 - [ReactJS](https://reactjs.org/)
-- [Clarifai API])https://www.clarifai.com/) for face detection
+- [Clarifai API](https://www.clarifai.com/) for face detection
 
 #### Back-end/Server
 
